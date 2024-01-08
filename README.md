@@ -3,7 +3,8 @@ In this repository, the feature maps of the pre-trained model (VGG-16) are displ
 
 For instance:
 
-https://github.com/Afnankhn/Visualize-feature-maps-in-CNN/blob/main/Feature_Maps_Extracted_From_Block_1.png?raw=true
+![image](https://github.com/Afnankhn/Visualize-feature-maps-in-CNN/assets/55242810/0299984e-95bd-4c4a-972c-ed1ef5af4ee3)
+
 
 Credits:
 
