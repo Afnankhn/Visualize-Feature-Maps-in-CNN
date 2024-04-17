@@ -1,7 +1,4 @@
 
-
-
-    
 # visualize feature maps output from each block in the vgg model
 from keras.applications.vgg16 import VGG16
 from keras.applications.vgg16 import preprocess_input
